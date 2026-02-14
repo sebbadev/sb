@@ -1,10 +1,6 @@
 Folders and files to ignore in the repository
 articles/
 
-
-
-
-
 FreeFileSync sync database files
 sync.ffs_dbsync.ffs_lock
 
